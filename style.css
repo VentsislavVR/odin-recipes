@@ -1,0 +1,71 @@
+body{
+    background-color:#c9bc8a;
+}
+h1{
+    color:brown;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image{
+    height: 300;
+    width: auto;
+
+}
+ul a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+.description{
+    font-size: 24px;
+    color: brown;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ingredients{
+    font-size: 24px;
+    color:brown;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul
+{
+    list-style-type: square;
+    color: black;
+    text-align: left;
+}
+
+li{
+    font-size: 18px;
+    color: black;
+    text-align: left;
+}
+
+.description p {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.steps{
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    color: brown;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ol li{
+    font-size: 18px;
+    color: black;
+    text-align: left;
+}
